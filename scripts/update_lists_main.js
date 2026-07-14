@@ -37,7 +37,7 @@ function listExistingNamesWithRecords() {
       } else if (e.isFile() && e.name.endsWith('.json')) {
         const base = path.basename(p);
         const parts = base.split('.');
-        if (parts.length >= 4 && parts.slice(-3).join('.') === 'til.my.id.json') {
+        if (parts.length >= 5 && parts.slice(-4).join('.') === 'til.my.id.json') {
           try {
             const raw = fs.readFileSync(p, 'utf8');
             const json = JSON.parse(raw);

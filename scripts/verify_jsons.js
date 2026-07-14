@@ -35,7 +35,7 @@ function verifyFileFormat(fileName) {
     }
 
     const fileNameParts = fileName.split('.');
-    if (fileNameParts.length !== 4 || !pattern.test(fileName)) {
+    if (fileNameParts.length !== 5 || !pattern.test(fileName)) {
         return false;
     }
 
