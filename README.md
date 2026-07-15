@@ -1,7 +1,7 @@
 # <p align="center"> *.til.my.id - Free Subdomains </p>
 **<p align="center"> Get your free `{name}.til.my.id` subdomain </p>**
 
-<img width="1000" height="300" alt="is-app top (6)" src="https://github.com/user-attachments/assets/c2ed1fff-cf9f-46cd-b039-b34927447ad8" />
+<img width="1000" height="300" alt="til my id banner" src="https://github.com/user-attachments/assets/2f50f960-82d9-4f4a-93bb-55fd122891fa" />
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/til-my-id/register?label=stars&style=for-the-badge&color=FFD700" alt="GitHub stars">&nbsp;&nbsp;
