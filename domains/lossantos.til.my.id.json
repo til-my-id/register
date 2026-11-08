@@ -1,0 +1,13 @@
+{
+  "subdomain": "lossantos",
+  "domain": "til.my.id",
+  "email_or_discord": "leroy04192",
+  "github_username": "leroy1144",
+  "description": "Minecraft server Los Santos hosted on Aternos",
+  "records": {
+    "NS": [
+      "galileo.aternos.org",
+      "columbus.aternos.org"
+    ]
+  }
+}
